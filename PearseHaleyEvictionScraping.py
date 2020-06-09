@@ -20,7 +20,7 @@ from my_fake_useragent import UserAgent
 from selenium.webdriver.common.keys import Keys
 from python_anticaptcha import AnticaptchaClient, NoCaptchaTaskProxylessTask
 
-## API_Key for page, and site_key to send to captcha solving service ##
+##API_Key for page, and site_key to send to captcha solving service##
 API_KEY = '########################'
 site_key = "6LfqmHkUAAAAAAKhHRHuxUy6LOMRZSG2LvSwWPO9"
 
