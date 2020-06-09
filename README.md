@@ -1,2 +1,4 @@
 # Eviction-Scraping
 Code for scraping and visualizing eviction records from Fulton and DeKalb counties (GA)
+
+This repository contains code developed starting in summer 2019 to scrape eviction records in Fulton and then DeKalb county in Georgia. These two counties contain the city of Atlanta and this code was first developed to compile eviction data to measure the impact of eviction on student displacement in Atlanta Public Schools. The project consists of a Python script for the ethical scraping of the Fulton and DeKalb County Magistrate Court public case record search portals along with R code for geocoding scraped addresses using the Google Maps API and the creation of a Shiny app that displays the eviction records in a Leaflet map that can generate a table of case information when selected and is customizable by date range.
